@@ -18,8 +18,8 @@ Play the classic Snake — grow the snake and avoid hitting the walls or yoursel
 
 ## 📸 Screenshot
 
-![Snake Game Screenshot](#)  
-(*tambahkan gambar screenshot / GIF animasi supaya lebih menarik*)
+![image alt](https://github.com/nindyodyanii/snakeGame/blob/8af41ffa151bf493750b1118ff0f37f52ce72a63/SS.jpg)
+
 
 ## 🛠️ Tech Stack
 
